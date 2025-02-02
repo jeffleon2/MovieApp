@@ -1,0 +1,4 @@
+api:
+  port: 8081
+consul:
+  port: 8500
